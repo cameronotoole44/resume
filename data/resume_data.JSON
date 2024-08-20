@@ -1,0 +1,94 @@
+{
+    "name": "Cameron O'Toole",
+    "contact": {
+        "email": "cameronotoole72@gmail.com",
+        "phone": "(716) 218-8642",
+        "linkedin": "linkedin.com/in/cameron-o-toole",
+        "github": "github.com/camerontoole44"
+    },
+    "summary": "Aspiring software engineer with a solid foundation in front-end and back-end technologies, transitioning from a successful background in retail sales and management. Adept at leading teams and improving performance, now utilizing analytical skills and a passion for technology to create efficient, innovative software solutions. Proficient in JavaScript, Python, React, Redux, Node.js, NoSQL, and SQL, with firsthand experience in building web applications and managing databases.",
+    "education": [
+        {
+            "degree": "Software Development Professional Certificate",
+            "institution": "North Carolina State University",
+            "dates": "Expected September 2024",
+            "location": "Raleigh, NC"
+        }
+    ],
+    "skills": [
+        "Python", "JavaScript", "TypeScript", "C#", "MongoDB", "PostgreSQL", "SQLite", "Express", "Flask", "React", "Redux", "Bootstrap", "Tailwind CSS", "Material UI", "jQuery", "Sequelize", "Unity", "Git", "GitHub", "Node.js", "HTML", "CSS", "Markdown", "VS Code", "Postman", "Babel", "Vercel", "NPM", "Blender", "Notion", "Machine Learning", "Data Analysis"
+    ],
+    "projects": [
+        {
+            "name": "Bifrost Bookings | NC State | July 2024",
+            "url": "https://github.com/cameronotoole44/BifrostBooking",
+            "description": [
+                "Developed a full-stack flight reservation application inspired by Norse mythology, utilizing React, Redux, Node.js, Express, and PostgreSQL, with Weatherbit API integration for weather data.",
+                "Features include secure user authentication, customizable user profiles, dynamic flight search, and comprehensive booking management with full CRUD functionality.",
+                "Currently developing an admin dashboard, enhancing search functionality with real flight data, and improving UI/UX for a better user experience.",
+                "Planning to add multi-language support, developing a mobile app, and implementing notification features for flight and booking alerts."
+            ],
+            "technologies": ["React", "Redux", "Node.js", "Express", "PostgreSQL"]
+        },
+        {
+            "name": "Tetris Clone | NC State | June 2024",
+            "url": "https://tetris-rr.vercel.app/",
+            "description": [
+                "Developed a Tetris clone using JavaScript, React, Redux, and Tailwind CSS.",
+                "Designed and implemented game mechanics, including piece movement, rotation, and collision detection, with on-screen controls or keyboard inputs, providing real-time updates to the player's total score.",
+                "Addressed a known issue where indefinite left or right movement of a block triggered a false ‘game over’ by limiting blocks to stay within the canvas.",
+                "Ensured a responsive design and compatibility across different devices, enhancing the game's accessibility and user experience."
+            ],
+            "technologies": ["JavaScript", "React", "Redux", "Tailwind CSS"]
+        },
+        {
+            "name": "Blackjack Browser Game | NC State | March 2024",
+            "url": "https://cameronotoole44.github.io/milestoneProject01/",
+            "description": [
+                "Developed a dynamic blackjack card game with complex game logic and interactive features using JavaScript, HTML, and CSS. Implemented the game logic and user interface, ensuring a smooth and engaging user experience.",
+                "Encountered and resolved a challenge in implementing the ace card value switching depending on the player's total by leveraging JavaScript knowledge and reading documentation.",
+                "Added a betting feature to enhance player engagement.",
+                "Deployed the game using GitHub’s deployment feature, gathered and incorporated user feedback to enhance functionality and performance, resulting in improved user satisfaction and engagement. Ongoing updates."
+            ],
+            "technologies": ["JavaScript", "HTML", "CSS"]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Air Handler",
+            "company": "United Parcel Service",
+            "dates": "September 2022 - June 2023",
+            "location": "Raleigh, NC",
+            "description": [
+                "Efficiently sorted and grouped packages from incoming flights based on the destination, ensuring accurate and timely loading into appropriate trucks, resulting in increased sorting efficiency and faster delivery times.",
+                "Adhered strictly to safety and security protocols while managing high volumes of packages, contributing to a reduction in workplace incidents and ensuring the safety of team members and packages.",
+                "Managed delicate and valuable packages with the utmost care, maintaining high standards of package integrity and significantly reducing the rate of damaged packages."
+            ]
+        },
+        {
+            "title": "Senior Guest Advisor",
+            "company": "GameStop",
+            "dates": "October 2018 - June 2020",
+            "location": "Apex, NC",
+            "description": [
+                "Analyzed the existing store layout and identified opportunities to optimize product visibility and maximize sales potential.",
+                "Implemented strategic visual merchandising tactics to improve store aesthetics and customer flow.",
+                "Evaluated product relationships to inform redesign decisions, enhancing customer engagement through effective displays.",
+                "Successfully redesigned the store layout, aligning product displays with customer behavior.",
+                "Increased average transaction value by 10% and overall store sales by 12% within the first quarter post-implementation."
+            ]
+        },
+        {
+            "title": "Co-Manager",
+            "company": "Journey's",
+            "dates": "March 2013 - January 2018",
+            "location": "Raleigh, NC; Tampa, FL",
+            "description": [
+                "Identified inconsistencies in store performance across key metrics.",
+                "Led efforts to improve store performance through data-driven decision-making processes.",
+                "Developed and implemented the 'perfect sale' strategy, promoting product bundling of shoes, socks, and accessories, and encouraging friendly competition among team members.",
+                "Enhanced overall store performance by 18%, with a 12% increase in customer retention over six months."
+            ]
+        }
+    ]
+}
