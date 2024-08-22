@@ -1,0 +1,6 @@
+defusedxml==0.7.1
+fonttools==4.53.1
+fpdf2==2.7.9
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+pillow==10.4.0
