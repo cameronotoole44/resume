@@ -34,3 +34,9 @@ This Python project generates a PDF of a resume using the fpdf library. The resu
 - Enhance the styling.
 - Add support for multiple font styles and sizes.
 - Include additional features such as sections for awards or certifications.
+
+# Example Resume
+
+- here is a summary screenshot of what this current version(v.1) looks like.
+
+![Resume Screenshot](/assets/pythonResumeIMG.png)
