@@ -36,7 +36,7 @@
             "description": [
                 "Developed a Tetris clone using JavaScript, React, Redux, and Tailwind CSS.",
                 "Designed and implemented game mechanics, including piece movement, rotation, and collision detection, with on-screen controls or keyboard inputs, providing real-time updates to the player's total score.",
-                "Addressed a known issue where indefinite left or right movement of a block triggered a false ‘game over’ by limiting blocks to stay within the canvas.",
+                "Addressed a known issue where indefinite left or right movement of a block triggered a false game over by limiting blocks to stay within the canvas.",
                 "Ensured a responsive design and compatibility across different devices, enhancing the game's accessibility and user experience."
             ],
             "technologies": ["JavaScript", "React", "Redux", "Tailwind CSS"]
@@ -48,7 +48,7 @@
                 "Developed a dynamic blackjack card game with complex game logic and interactive features using JavaScript, HTML, and CSS. Implemented the game logic and user interface, ensuring a smooth and engaging user experience.",
                 "Encountered and resolved a challenge in implementing the ace card value switching depending on the player's total by leveraging JavaScript knowledge and reading documentation.",
                 "Added a betting feature to enhance player engagement.",
-                "Deployed the game using GitHub’s deployment feature, gathered and incorporated user feedback to enhance functionality and performance, resulting in improved user satisfaction and engagement. Ongoing updates."
+                "Deployed the game using GitHubs deployment feature, gathered and incorporated user feedback to enhance functionality and performance, resulting in improved user satisfaction and engagement. Ongoing updates."
             ],
             "technologies": ["JavaScript", "HTML", "CSS"]
         }
