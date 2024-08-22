@@ -1,0 +1,35 @@
+{
+    "name": "Your Name",
+    "contact": {
+        "email": "your.email@example.com",
+        "phone": "Your Phone Number",
+        "linkedin": "Your LinkedIn URL",
+        "github": "Your GitHub URL"
+    },
+    "summary": "A brief summary about yourself.",
+    "projects": [
+        {
+            "name": "Project Name",
+            "description": ["Description line 1", "Description line 2"],
+            "technologies": ["Tech1", "Tech2"]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Degree Name",
+            "institution": "Institution Name",
+            "dates": "Date Range",
+            "location": "Location"
+        }
+    ],
+    "skills": ["Skill1", "Skill2"],
+    "experience": [
+        {
+            "title": "Job Title",
+            "company": "Company Name",
+            "dates": "Date Range",
+            "location": "Location",
+            "description": ["Description line 1", "Description line 2"]
+        }
+    ]
+}
